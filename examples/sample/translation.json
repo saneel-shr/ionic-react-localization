@@ -1,0 +1,17 @@
+{
+  "en": {
+    "translation": {
+      "language": "LANGUAGE"
+    }
+  },
+  "ja": {
+    "translation": {
+      "language": "言語"
+    }
+  },
+  "ne": {
+    "translation": {
+      "language": "भाषा"
+    }
+  }
+}
